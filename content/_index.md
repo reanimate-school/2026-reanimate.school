@@ -22,7 +22,7 @@ The public transport system of Montreal(STM) will enter in a strike at 9th of Ju
 
 # When?
 
-Jun. Mon. 9 to Fri. 13, 2025 (inclusive)
+Jun. Mon. 9 to Fri. 13, 2026 (inclusive)
 
 # Why?
 
