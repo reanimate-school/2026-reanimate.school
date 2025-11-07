@@ -146,7 +146,11 @@ preserveTaxonomyNames = true
     url = "https://2025.reanimate.school"
     weight = 50
 
-
+ [[menu.main]]
+    identifier = "CRVJA"
+    name = "CRVJA"
+    url = "https://crvja.ptidej.net"
+    weight = 50
 
 [taxonomies]
     tag = "tags"
