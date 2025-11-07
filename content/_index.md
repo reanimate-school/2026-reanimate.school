@@ -22,7 +22,7 @@ The public transport system of Montreal(STM) will enter in a strike at 9th of Ju
 
 # When?
 
-Jun. Mon. 9 to Fri. 13, 2026 (inclusive)
+TBA
 
 # Why?
 
@@ -30,5 +30,5 @@ Despite becoming mainstream and being the subject of some recent, popular books,
 
 # How?
 
-Please register <a href="https://sites.events.concordia.ca/sites/concordia/en/reanimate25/">here until/on Tue. Jun. 3rd</a> or, if you cannot afford the registration fees, please send an e-mail to reanimate.school@proton.me with a (short) bio. (200 words max) and possibly 1-2 sentences about your interests.
+TBA
 

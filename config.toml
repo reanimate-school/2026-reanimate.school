@@ -110,29 +110,29 @@ preserveTaxonomyNames = true
   #   url = "/sponsors/"
   #   weight = 20
 
-  [[menu.main]]
-    identifier = "program"
-    name = "Program"
-    url = "/program/"
-    weight = 20
+  #[[menu.main]]
+  #  identifier = "program"
+  #  name = "Program"
+  #  url = "/program/"
+  #  weight = 20
 
-  [[menu.main]]
-    identifier = "gamejam"
-    name = "Game Jam"
-    url = "/gamejam/"
-    weight = 30
+  #[[menu.main]]
+  # identifier = "gamejam"
+  #  name = "Game Jam"
+  #  url = "/gamejam/"
+  #  weight = 30
 
-  [[menu.main]]
-    identifier = "photos"
-    name = "Photos"
-    url = "/photos/"
-    weight = 30
+  #[[menu.main]]
+  # identifier = "photos"
+  #  name = "Photos"
+  #  url = "/photos/"
+  # weight = 30
 
-  [[menu.main]]
-    identifier = "registration"
-    name = "Registration"
-    url = "/registration/"
-    weight = 40
+  #[[menu.main]]
+  # identifier = "registration"
+  #  name = "Registration"
+  #  url = "/registration/"
+  #  weight = 40
 
   [[menu.main]]
     identifier = "contact"
