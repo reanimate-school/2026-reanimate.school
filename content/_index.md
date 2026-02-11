@@ -16,13 +16,9 @@ Five days, providing ample time for theoretical learning and hands-on practical 
 
 Concordia University, at the heart of Montréal, in a conference room for the theoretical sessions and a fully-equipped, state-of-the-art computer lab. for the hands-on sessions. The conference room will be ER1072, located on the 10th floor of the ER building at 2155 Guy. The computer lab will be located in the Hall building, in which all teaching activities take place during the year.
 
-# Important
-The public transport system of Montreal(STM) will enter in a strike at 9th of June, so please access the following link to have a better information regarding bus and subway schedules:
-<a href="https://lp.ca/elonfZ?sharing=true">STM Information</a> 
-
 # When?
 
-TBA
+From Mon. Jun. 8th to Fri. Jun. 12th, 2026, in conjunction with CGSA.
 
 # Why?
 
@@ -31,4 +27,3 @@ Despite becoming mainstream and being the subject of some recent, popular books,
 # How?
 
 TBA
-
