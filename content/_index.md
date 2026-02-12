@@ -26,4 +26,4 @@ Despite becoming mainstream and being the subject of some recent, popular books,
 
 # How?
 
-TBA
+Please [register on-line](https://sites.events.concordia.ca/sites/concordia/en/reanimate26). (Do not hesitate to contact us for any question/concern regarding the registration fees.)
