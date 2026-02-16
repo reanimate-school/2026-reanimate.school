@@ -44,7 +44,7 @@ Tentative program of the school, please come back often and don't hesitate to co
 | 09:00 - 10:00 | &nbsp; Game Jam |
 | 10:00 - 11:00 | &nbsp; Game Jam |
 | 11:00 - 11:15 | &nbsp; Coffee Break |
-| 11:15 - 12:30 | &nbsp; [Andrew Hogue](/speakers/) |
+| 11:15 - 12:30 | &nbsp; Game Jam |
 | 12:30 - 13:30 | &nbsp; Lightning talks + Lunch |
 | 13:30 - 14:30 | &nbsp; Game Jam + Coffee |
 | 14:30 - 15:30 | &nbsp; Mid Game Jam Discussions |
