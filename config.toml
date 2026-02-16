@@ -110,11 +110,11 @@ preserveTaxonomyNames = true
   #   url = "/sponsors/"
   #   weight = 20
 
-  #[[menu.main]]
-  #  identifier = "program"
-  #  name = "Program"
-  #  url = "/program/"
-  #  weight = 20
+  [[menu.main]]
+    identifier = "program"
+    name = "Program"
+    url = "/program/"
+    weight = 20
 
   #[[menu.main]]
   # identifier = "gamejam"
