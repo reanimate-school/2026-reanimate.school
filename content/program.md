@@ -1,95 +1,82 @@
 +++
 title = "Program"
-date = "2024-01-26"
+date = "2026-01-15"
 author = ""
 +++
 
+Tentative program of the school, please come back often and don't hesitate to contact us with any questions/ideas.
+
 # Monday
 
-| Jun. 9 | &nbsp; Monday |
+| Jun. 8 | &nbsp; Monday |
 |---:|:---|
 | 09:00 - 10:00 | &nbsp; Registration and Welcome Breakfast |
-| 10:00 - 11:00 | &nbsp; [Rilla Khaled](/speakers/) |
+| 10:00 - 11:00 | &nbsp; Keynote |
 | 11:00 - 11:15 | &nbsp; Coffee Break |
-| 11:15 - 12:30 | &nbsp; [John Aycock](/speakers/) |
+| 11:15 - 12:30 | &nbsp; TBA |
 | 12:30 - 13:30 | &nbsp; Lightning talks + Lunch |
-| 13:30 - 14:30 | &nbsp; Championship + Coffee |
-| 14:30 - 15:30 | &nbsp; Championship + Coffee |
-| 15:30 - 16:30 | &nbsp; Keynote with CGSA |
+| 13:30 - 14:30 | &nbsp; TBA + Coffee |
+| 14:30 - 15:30 | &nbsp; TBA |
+| 15:30 - 16:30 | &nbsp; TBA |
 
 
 <br/>
 
 # Tuesday
 
-| Jun. 10 | &nbsp; Tuesday |
+| Jun. 9 | &nbsp; Tuesday |
 |---:|:---|
-| 09:00 - 10:00 | &nbsp; [Andrew Hogue](/speakers/) [[PDF1](/Presentations/250610a - Andrew Hogue.pdf), [PDF2](/Presentations/250610b - Andrew Hogue.pdf)] |
-| 10:00 - 11:00 | &nbsp; [Andrew Hogue](/speakers/) [[PDF](/Presentations/250610c - Andrew Hogue.pdf)] |
+| 09:00 - 10:00 | &nbsp; Start of the Game Jam |
+| 10:00 - 11:00 | &nbsp; Introducing CRVJA |
 | 11:00 - 11:15 | &nbsp; Coffee Break |
-| 11:15 - 12:30 | &nbsp; [Andrew Hogue](/speakers/) [[PDF](/Presentations/250610d - Andrew Hogue.pdf)] |
+| 11:15 - 12:30 | &nbsp; Discussions |
 | 12:30 - 13:30 | &nbsp; Lightning talks + Lunch |
-| 13:30 - 14:30 | &nbsp; Championship + Coffee |
-| 14:30 - 15:30 | &nbsp; [Mia Clarkson](/speakers/), [Magnus Berg](/speakers/) [[PDF](/Presentations/250610e - Mia Clarkson and Magnus Berg.pdf)] |
-| 15:30 - 16:30 | &nbsp; [Chris Gibbs](/speakers/) [[PDF](/Presentations/250610f - Chris Gibbs.pdf)] |
+| 13:30 - 14:30 | &nbsp; Game Jam + Coffee |
+| 14:30 - 15:30 | &nbsp; Game Jam |
+| 15:30 - 16:30 | &nbsp; Game Jam |
 
 <br/>
 
 # Wednesday
 
-| Jun. 11 | &nbsp; Wednesday |
+| Jun. 10 | &nbsp; Wednesday |
 |---:|:---|
-| 09:00 - 10:00 | &nbsp; [Andrew Hogue](/speakers/) [[PDF](/Presentations/250611a - Andrew Hogue.pdf)] |
-| 10:00 - 11:00 | &nbsp; [Andrew Hogue](/speakers/) |
+| 09:00 - 10:00 | &nbsp; Game Jam |
+| 10:00 - 11:00 | &nbsp; Game Jam |
 | 11:00 - 11:15 | &nbsp; Coffee Break |
 | 11:15 - 12:30 | &nbsp; [Andrew Hogue](/speakers/) |
 | 12:30 - 13:30 | &nbsp; Lightning talks + Lunch |
-| 13:30 - 14:30 | &nbsp; Championship + Coffee |
-| 14:30 - 15:30 | &nbsp; [Alex Custodio](/speakers/) (GBA mods) [[PDF](/Presentations/250611b - Alex Custodio.pdf)] |
-| 15:30 - 16:30 | &nbsp; Visit to the Depot |
-| 16:30 - 17:30 | &nbsp; Workshop at the Depot |
+| 13:30 - 14:30 | &nbsp; Game Jam + Coffee |
+| 14:30 - 15:30 | &nbsp; Mid Game Jam Discussions |
+| 15:30 - 16:30 | &nbsp; Outside Visit |
+| 16:30 - 17:30 | &nbsp; Outside Visit |
 
 <br/>
 
 # Thursday
 
-| Jun. 12 | &nbsp; Thursday |
+| Jun. 11 | &nbsp; Thursday |
 |---:|:---|
-| 10:00 - 11:00 | &nbsp; [Cindy Poremba](/speakers/) |
+| 10:00 - 11:00 | &nbsp; Game Jama |
 | 11:00 - 11:15 | &nbsp; Coffee Break |
-| 11:15 - 12:30 | &nbsp; [Charlotte Courtois](/speakers/) [[PDF](/Presentations/250612b - Charlotte Courtois.pdf)] |
+| 11:15 - 12:30 | &nbsp; Game Jame |
 | 12:30 - 13:30 | &nbsp; Lunch + TBA |
-| 13:30 - 14:30 | &nbsp; Championship + Coffee |
-| 14:30 - 15:30 | &nbsp; [Henrique](/speakers/) [[PDF](/Presentations/250612c - Henrique de Freitas Serra.pdf)] |
-| 15:30 - 16:30 | &nbsp; [Henrique](/speakers/) |
+| 13:30 - 14:30 | &nbsp; Game Jam + Coffee |
+| 14:30 - 15:30 | &nbsp; Game Jam Crunch |
+| 15:30 - 16:30 | &nbsp; Game Jam Crunch |
+| 16:30 - 17:30 | &nbsp; Game Jam Crunch |
 
 <br/>
 
 # Friday
 
-| Jun. 13 | &nbsp; Friday |
+| Jun. 12 | &nbsp; Friday |
 |---:|:---|
-| 10:00 - 11:00 | &nbsp; [Richy Srirachanikorn](/speakers/) |
+| 10:00 - 11:00 | &nbsp; End of the Game Jam |
 | 11:00 - 11:15 | &nbsp; Coffee Break |
-| 11:15 - 12:30 | &nbsp; [Femke Kocken](/speakers/) [[PDF](/Presentations/250613b - Femke Kocken.pdf)] |
+| 11:15 - 12:30 | &nbsp; Keynote |
 | 12:30 - 13:30 | &nbsp; Lightning talks + Lunch |
-| 13:30 - 14:30 | &nbsp; Championship + Coffee |
-| 14:30 - 15:30 | &nbsp; [Aleksander Franiczek](/speakers/) [[PDF](/Presentations/250613c - Aleks Franiczek.pdf)] |
-| 15:30 - 16:30 | &nbsp; Championship Prize |
+| 13:30 - 14:30 | &nbsp; Game Jam Presentations + Coffee |
+| 14:30 - 15:30 | &nbsp; Game Jam Celebrations |
+| 15:30 - 16:30 | &nbsp; Game Jam Prizes |
 | 16:30 - 17:30 | &nbsp; Outing ArcadeMtl |
-
-<br/>
-
-# Bird-eye View
-
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Monday | Tuesday | Wednesday | Thursday | Friday |
-|---:|:---:|:---:|:---:|:---:|:---:|
-|  | Jun 9 | Jun 10 | Jun 11 | Jun 12 | Jun 13 |
-| 09:00 - 10:00 | Registration + Breakfast | [Andrew Hogue](/speakers/) | [Andrew Hogue](/speakers/) | - | - |
-| 10:00 - 11:00 | [Rilla Khaled](/speakers/) | [Andrew Hogue](/speakers/) | [Andrew Hogue](/speakers/) | [Cindy Poremba](/speakers/) | [Richy Srirachanikorn](/speakers/) |
-| 11:15 - 12:30 | [John Aycock](/speakers/) | [Andrew Hogue](/speakers/) | [Andrew Hogue](/speakers/) | [Charlotte Courtois](/speakers/) | [Femke Kocken](/speakers/) |
-| 12:30 - 13:30 | Lunch + Lightning Talks | Lunch + Lightning Talks | Lunch + Lightning Talks | Lunch + Lightning Talks | Lunch + Lightning Talks |
-| 13:30 - 14:30 | Championship + Coffee | Championship + Coffee | Championship + Coffee | Championship + Coffee | Championship + Coffee |
-| 14:30 - 15:30 | Championship + Coffee | [Mia Clarkson](/speakers/), [Magnus Berg](/speakers/) | [Alex Custodio](/speakers/) | [Henrique](/speakers/) | [Aleksander Franiczek](/speakers/) |
-| 15:30 - 16:30 |  Keynote with CGSA | [Chris Gibbs](/speakers/) | Visit to the Depot | [Henrique](/speakers/) | Championship Prize |
-| 16:30 - 17:30 | — | — | Workshop at the Depot | — | Outing ArcadeMtl |
