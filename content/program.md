@@ -1,24 +1,23 @@
 +++
 title = "Program"
-date = "2026-01-15"
-author = ""
+date = "2026-04-02"
+author = "Yann"
 +++
 
-Tentative program of the school, please come back often and don't hesitate to contact us with any questions/ideas.
+Program of the school, don't hesitate to contact us with any questions/ideas.
 
 # Monday
 
 | Jun. 8 | &nbsp; Monday |
 |---:|:---|
-| 09:00 - 10:00 | &nbsp; Registration and Welcome Breakfast |
-| 10:00 - 11:00 | &nbsp; Keynote |
+| 08:00 - 09:00 | &nbsp; Breakfast |
+| 09:00 - 10:00 | &nbsp; Welcome |
+| 10:00 - 11:00 | &nbsp; Presentation by Aleksander Franiczek |
 | 11:00 - 11:15 | &nbsp; Coffee Break |
-| 11:15 - 12:30 | &nbsp; TBA |
-| 12:30 - 13:30 | &nbsp; Lightning talks + Lunch |
-| 13:30 - 14:30 | &nbsp; TBA + Coffee |
-| 14:30 - 15:30 | &nbsp; TBA |
-| 15:30 - 16:30 | &nbsp; TBA |
-
+| 11:15 - 12:15 | &nbsp; Presentation by Femke Kocken |
+| 12:15 - 14:00 | &nbsp; Lightning talks, Lunch, and Championship |
+| 14:00 - 16:00 | &nbsp; Keynote by Gregory Nacu |
+| 16:00 - 17:00 | &nbsp; Presentation by Martin Robillard |
 
 <br/>
 
@@ -26,14 +25,14 @@ Tentative program of the school, please come back often and don't hesitate to co
 
 | Jun. 9 | &nbsp; Tuesday |
 |---:|:---|
-| 09:00 - 10:00 | &nbsp; Start of the Game Jam |
-| 10:00 - 11:00 | &nbsp; Introducing CRVJA |
+| 08:00 - 09:00 | &nbsp; Breakfast |
+| 09:00 - 10:00 | &nbsp; Game Jam: Directions + Teams |
+| 10:00 - 11:00 | &nbsp; Game Jam: Presentation of CRVJA |
 | 11:00 - 11:15 | &nbsp; Coffee Break |
-| 11:15 - 12:30 | &nbsp; Discussions |
-| 12:30 - 13:30 | &nbsp; Lightning talks + Lunch |
-| 13:30 - 14:30 | &nbsp; Game Jam + Coffee |
-| 14:30 - 15:30 | &nbsp; Game Jam |
-| 15:30 - 16:30 | &nbsp; Game Jam |
+| 11:15 - 12:15 | &nbsp; Game Jam |
+| 12:15 - 14:00 | &nbsp; Lightning talks, Lunch, and Championship |
+| 14:00 - 16:00 | &nbsp; Keynote by Leo Binkowski |
+| 16:00 - 17:00 | &nbsp; Game Jam |
 
 <br/>
 
@@ -41,15 +40,13 @@ Tentative program of the school, please come back often and don't hesitate to co
 
 | Jun. 10 | &nbsp; Wednesday |
 |---:|:---|
+| 08:00 - 09:00 | &nbsp; Breakfast |
 | 09:00 - 10:00 | &nbsp; Game Jam |
 | 10:00 - 11:00 | &nbsp; Game Jam |
 | 11:00 - 11:15 | &nbsp; Coffee Break |
-| 11:15 - 12:30 | &nbsp; Game Jam |
-| 12:30 - 13:30 | &nbsp; Lightning talks + Lunch |
-| 13:30 - 14:30 | &nbsp; Game Jam + Coffee |
-| 14:30 - 15:30 | &nbsp; Mid Game Jam Discussions |
-| 15:30 - 16:30 | &nbsp; Outside Visit |
-| 16:30 - 17:30 | &nbsp; Outside Visit |
+| 11:15 - 12:15 | &nbsp; Game Jam |
+| 12:15 - 14:00 | &nbsp; Lightning talks, Lunch, and Championship |
+| 14:00 - 17:00 | &nbsp; Game Jam |
 
 <br/>
 
@@ -57,14 +54,14 @@ Tentative program of the school, please come back often and don't hesitate to co
 
 | Jun. 11 | &nbsp; Thursday |
 |---:|:---|
-| 10:00 - 11:00 | &nbsp; Game Jama |
+| 08:00 - 09:00 | &nbsp; Breakfast |
+| 09:00 - 10:00 | &nbsp; Game Jam |
+| 10:00 - 11:00 | &nbsp; Game Jam |
 | 11:00 - 11:15 | &nbsp; Coffee Break |
-| 11:15 - 12:30 | &nbsp; Game Jame |
-| 12:30 - 13:30 | &nbsp; Lunch + TBA |
-| 13:30 - 14:30 | &nbsp; Game Jam + Coffee |
-| 14:30 - 15:30 | &nbsp; Game Jam Crunch |
-| 15:30 - 16:30 | &nbsp; Game Jam Crunch |
-| 16:30 - 17:30 | &nbsp; Game Jam Crunch |
+| 11:15 - 12:15 | &nbsp; Game Jam |
+| 12:15 - 14:00 | &nbsp; Lightning talks, Lunch, and Championship |
+| 14:00 - 17:00 | &nbsp; Game Jam |
+| 17:00+ | &nbsp; Social Event at Arcade MTL |
 
 <br/>
 
@@ -72,11 +69,13 @@ Tentative program of the school, please come back often and don't hesitate to co
 
 | Jun. 12 | &nbsp; Friday |
 |---:|:---|
-| 10:00 - 11:00 | &nbsp; End of the Game Jam |
+| 08:00 - 09:00 | &nbsp; Breakfast |
+| 09:00 - 10:00 | &nbsp; Game Jam: Wrap-up |
+| 10:00 - 11:00 | &nbsp; Presentation by Giuseppe Destefanis |
 | 11:00 - 11:15 | &nbsp; Coffee Break |
-| 11:15 - 12:30 | &nbsp; Keynote |
-| 12:30 - 13:30 | &nbsp; Lightning talks + Lunch |
-| 13:30 - 14:30 | &nbsp; Game Jam Presentations + Coffee |
-| 14:30 - 15:30 | &nbsp; Game Jam Celebrations |
-| 15:30 - 16:30 | &nbsp; Game Jam Prizes |
-| 16:30 - 17:30 | &nbsp; Outing ArcadeMtl |
+| 11:15 - 12:15 | &nbsp; Presentation by Frédérick Maheux |
+| 12:15 - 14:00 | &nbsp; Lightning talks, Lunch, and Championship |
+| 14:00 - 15:00 | &nbsp; Game Jam: Vote |
+| 15:00 - 16:00 | &nbsp; Game Jam: Celebrations |
+| 16:00 - 17:00 | &nbsp; Closing Session |
+| 17:00+ | &nbsp; Social Event at Champagne Box |
