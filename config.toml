@@ -149,7 +149,7 @@ preserveTaxonomyNames = true
  [[menu.main]]
     identifier = "CRVJA"
     name = "CRVJA"
-    url = "https://crvja.ptidej.net"
+    url = "https://crvja.reanimate.school/"
     weight = 50
 
 [taxonomies]
