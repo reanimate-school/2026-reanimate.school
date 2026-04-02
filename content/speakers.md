@@ -11,6 +11,12 @@ author = ""
 
 Femke Kocken is a design researcher, that aims to create meaningful interactions within communities by creating designs that feel innate in technologically augmented worlds. With a background in Industrial Design at the Technological University of Eindhoven, her work centres around conducting research, design making, and creating insights from and with people.
 
+# Gregory Nacu
+
+Gregory Naçu is the creator of C64 OS and the founder of OpCoders Inc. A lifelong Commodore enthusiast, he began programming after discovering a broken VIC-20 at age five and receiving a Commodore 64 at age nine. In the late 1990s he became active in the Commodore community, attending Commodore Expos and developing software for the SuperCPU and the WiNGs operating system. After returning to the scene years later, he set out to bring a modern, mouse-driven computing environment to the Commodore 64, leading to the creation of C64 OS—a powerful operating system enhancement written in 6502 assembly language and developed on a Commodore 128.
+
+Supercharge your C64 with C64 OS
+
 # Martin Robillard
 
 Martin Robillard is a Professor in the School of Computer Science at McGill University. He received his Ph.D. in Computer Science from the University of British Columbia. His research is in software engineering, with an emphasis on the human aspects of software development. His current work focuses on documentation design and retrieval, test suite quality, and information privacy. Prof. Robillard received six ACM SIGSOFT Distinguished Paper Awards for his work on recommendation systems for software engineering, software traceability, and software documentation. He is the author of the book Introduction to Software Design with Java and the maintainer of the JetUML software modeling tool, for which he received the 2024 ACM SIGSOFT Influential Educator Award. He served as program co-chair for both flagship conferences in software engineering (FSE 2012 and ICSE 2017). Prof. Robillard is a Distinguished Member of the ACM.
