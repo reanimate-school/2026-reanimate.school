@@ -1,8 +1,7 @@
 +++
 title = "Speakers"
-description = ""
-date = "2026-05-02"
-author = ""
+date = "2026-04-02"
+author = "Yann"
 +++
 
 # Aleksander Franiczek
