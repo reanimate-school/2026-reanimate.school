@@ -82,4 +82,4 @@ Program of the school, don't hesitate to contact us with any questions/ideas.
 
 <br/>
 
-<iframe height=450 src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR0HSmHDanvA7-CR5iPY4CVi3r8ZfLKNmbxYMSH5KU6VoiSsfEdX3Y_QsfOVvtMJc6zEB88iDpYw6QN/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+<iframe height=400 witdth=800 src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR0HSmHDanvA7-CR5iPY4CVi3r8ZfLKNmbxYMSH5KU6VoiSsfEdX3Y_QsfOVvtMJc6zEB88iDpYw6QN/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
