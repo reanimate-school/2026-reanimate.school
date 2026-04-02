@@ -98,12 +98,6 @@ preserveTaxonomyNames = true
     url = "/objectives/"
     weight = 10
 
-  #[[menu.main]]
-  #  identifier = "speakers"
-  #  name = "Speakers"
-  #  url = "/speakers/"
-  #  weight = 20
-
   # [[menu.main]]
   #   identifier = "sponsors"
   #   name = "Sponsors"
@@ -116,11 +110,17 @@ preserveTaxonomyNames = true
     url = "/program/"
     weight = 20
 
-  #[[menu.main]]
-  # identifier = "gamejam"
-  #  name = "Game Jam"
-  #  url = "/gamejam/"
-  #  weight = 30
+  [[menu.main]]
+    identifier = "speakers"
+    name = "Speakers"
+    url = "/speakers/"
+    weight = 20
+
+  [[menu.main]]
+   identifier = "gamejam"
+    name = "Game Jam"
+    url = "/gamejam/"
+    weight = 30
 
   #[[menu.main]]
   # identifier = "photos"
