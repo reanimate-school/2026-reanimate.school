@@ -79,3 +79,7 @@ Program of the school, don't hesitate to contact us with any questions/ideas.
 | 15:00 - 16:00 | &nbsp; Game Jam: Celebrations |
 | 16:00 - 17:00 | &nbsp; Closing Session |
 | 17:00+ | &nbsp; Social Event at Champagne Box |
+
+<br/>
+
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR0HSmHDanvA7-CR5iPY4CVi3r8ZfLKNmbxYMSH5KU6VoiSsfEdX3Y_QsfOVvtMJc6zEB88iDpYw6QN/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
