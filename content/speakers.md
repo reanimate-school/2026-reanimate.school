@@ -18,7 +18,7 @@ Supercharge your C64 with C64 OS
 
 # Martin Robillard
 
-Martin Robillard is a Professor in the School of Computer Science at McGill University. He received his Ph.D. in Computer Science from the University of British Columbia. His research is in software engineering, with an emphasis on the human aspects of software development. His current work focuses on documentation design and retrieval, test suite quality, and information privacy. Prof. Robillard received six ACM SIGSOFT Distinguished Paper Awards for his work on recommendation systems for software engineering, software traceability, and software documentation. He is the author of the book Introduction to Software Design with Java and the maintainer of the JetUML software modeling tool, for which he received the 2024 ACM SIGSOFT Influential Educator Award. He served as program co-chair for both flagship conferences in software engineering (FSE 2012 and ICSE 2017). Prof. Robillard is a Distinguished Member of the ACM.
+Martin Robillard is a Professor in the School of Computer Science at McGill University. His research is in software engineering, with an emphasis on the human aspects of software development and code quality. A passionate Java programmer for 30 years, he is the author of the book "Introduction to Software Design with Java" and the maintainer of the JetUML software modeling tool and the codesample.info website.
 
 # Leo Binkowski
 
