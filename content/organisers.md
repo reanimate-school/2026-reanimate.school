@@ -16,39 +16,24 @@ Yann-Gaël Guéhéneuc has been a full professor at the Department of Computer S
 
 Fabio Petrillo serves as an associate professor in the Department of Software Engineering and IT at École de Technologie Supérieure in Montreal, Canada, starting in 2022. He completed his Ph.D. in Computer Science from the Federal University of Rio Grande do Sul in Brazil in 2016. Following that, he pursued a postdoctoral fellowship at Concordia University in Canada.
 
-# Jessie Galasso-Carbonnel
-> Assistant Professor, McGill University
-
-Dr. Jessie Galasso-Carbonnel is an Assistant Professor in the Department of Electrical and Computer Engineering at McGill University since August 2023. Her research interests encompass software reverse engineering, knowledge extraction and representation, variability management and modeling, and software repository mining.
-She earned her Ph.D. in Computer Science from the University of Montpellier, France, in 2018, focusing on symbolic AI for model extraction and software product line reverse engineering. Following her doctorate, she served as a teaching and research assistant from 2018 to 2019, continuing her work on complex software product lines. Between 2019 and 2020, Dr. Galasso-Carbonnel worked at the French National Institute for Sustainable Development (IRD), addressing issues related to knowledge representation, interoperability, and ontology matching.
-From 2020 to 2023, she was a postdoctoral researcher in the GEODES group at the Université de Montréal, where she received IVADO postdoctoral research funding in October 2020 to explore machine learning and optimization approaches for source code recommendation.
-
 # Henrique de Freitas
 > Research Assistant, Concordia University
 
 Henrique de Freitas is a research assistant of Professor Yann-Gaël Guéhéneuc, also a proud member of PTIDEJ(Pattern Trace Identification, Detection, and Enhancement in Java) Team and a full stack developer for one of Concordia's projects for Bridging Divides (A seven-year interdisciplinary initiative investigating the challenges and opportunities of migrant integration ,funded by the Government of Canada through the Canada First Research Excellence Fund (CFREF)).
 Although he has not yet finished his bachelor's in Computer Science in his home country, his experience preceds with four years of bachelor in Physic's and and 35 certificates also equivalent 4 completed courses in web development, mobile development, software development and UI/UX.Summing up to many years of full time studying in Alura Courses Platform, interships and work experience.
 
+# Vinicius Mioto
+> Master's student, Concordia University
+
 # Cristiano Politowski
 > Post-doc., Université de Montréal
 
 Cristiano Politowski is an Assistant Professor of Computer Science in the Faculty of Science at Ontario Tech University. He previously held postdoctoral appointments at the Université de Montréal’s Software Engineering Research Group (working with Houari Sahraoui and Michalis Famelis) and at École de Technologie Supérieure (ÉTS) in Montréal (working with Ghizlane El-Boussaidi). He earned his Ph.D. in Computer Science and Software Engineering from Concordia University under the supervision of Yann-Gaël Guéhéneuc, with Fabio Petrillo as co-supervisor. Cristiano’s research focuses on video-game development, software testing and quality, artificial intelligence for software engineering, deep reinforcement learning, and empirical software engineering. 
 
-# Nicolas Rousse
-> Master's student, Concordia University
-
-Nicolas Collins Rousse completed his bachelor degree in Electrical Engineering with a concentration in computer science at École de Technologie Supérieure in Montréal, Québec, Canada in 2018. He is currently pursuing a master’s degree (MASc) in Software Engineering at Concordia university in Montréal. He has been professionally creating embedded control system hardware and software since 2016. He also has great experience in electronic equipment repair including retro computers and gaming systems. His interests and skills include bringing new hardware and software technologies and applications to retro systems.
-
 # Gabriel Ullmann
 > Researcher, Concordia University
 
 Gabriel C. Ullmann is a research support professional at the Next-Generation Cities Institute at Concordia University in Montreal. Currently, he is a member of the development team for CityLayers, a web-enabled smart cities simulation platform. Throughout his Master's program, his research focus centered on Game Engine Architecture, and his thesis involved a comprehensive analysis of notable game engines like Unreal, CryEngine, and Godot. His research interests also include Software Architecture Recovery, Video Game Development, and Artificial Intelligence.
-
-# Laurent Voisard
-> Master's student, Concordia University
-
-Laurent Voisard completed his bachelor's degree in Computer Science: Computer Games Co-op program at Concordia University in 2024. He has freshly started his Master's degree (MACs) in Software Engineering at Concordia University. Laurent started his research academic path in the Summer 2023 thanks to a NSERC USRA research award, and published two AR/VR papers since then. Now, Laurent turns to study fundamental systems in video games, specifically looking at his favourite genre: Action-RPGs in the likes of the Diablo series.
-
 
 # Diego Elias Costa
 > Assistant Professor, Concordia University
