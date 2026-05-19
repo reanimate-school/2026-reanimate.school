@@ -3,6 +3,11 @@
 
 This presentation discusses the value of interdisciplinary methods for studying retro games as both technical and artistic objects. While all video games are determined by the technology used for their development, the study of retro games in particular demands consideration of the creative ways that developers (and players) work with (and around) hardware limitations. To explore this idea, the talk will consider the insightful potential of mixed-methods retro game analysis that combines quantitative data from computer science with qualitative approaches from the humanities. Example projects include tracing the evolution of a retro game series and comparing official (i.e., port, remaster) and unofficial (i.e., modded, hacked) versions of a retro game. If game development requires interdisciplinary collaboration, then why shouldn’t game scholarship follow suit?
 
+# Colour & Constraint; Designing Retro Game Palettes
+## Femke Kocken
+
+This presentation explores how technical limitations shaped the visual language of retro games through the use of colour palettes. Beginning with a short introduction to colour theory and visual perception, the talk examines how early hardware restrictions forced developers and pixel artists to make highly intentional colour choices. We will look at how palette limitations influenced aspects such as readability, atmosphere, contrast, and visual identity. The session concludes with a practical guide for designing colour palettes for games in AMOS Basic, which can be directly applied to the game jam. 
+
 # Revisiting PlayStation 1 Style and Aesthetic with TENUOUS:City and ShaderLab
 ## Frédérick Maheux
 
