@@ -10,7 +10,7 @@ Aleksander Franiczek is an independent scholar and educator who recently complet
 
 # Femke Kocken
 
-Femke Kocken is a design researcher who aims to create meaningful interactions within communities by creating designs that feel innate in technologically augmented worlds. With a background in Industrial Design at the Technological University of Eindhoven, her work centres around conducting research, design making, and creating insights from and with people.
+Femke Kocken is a Dutch researcher and designer with a background in Industrial Design from Eindhoven University of Technology and research experience at Concordia University in Montréal. Her work explores the relationship between humans, technology, and the world, with a particular interest in internet culture, AI, speculative design, and digital aesthetics. Through both research and design, she investigates how interaction design and visual systems shape the way we experience (digital) worlds.
 
 # Gregory Nacu
 
