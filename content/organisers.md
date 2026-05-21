@@ -25,6 +25,8 @@ Although he has not yet finished his bachelor's in Computer Science in his home 
 # Vinicius Mioto
 > Master's student, Concordia University
 
+Vinicius Mioto is a research assistant of Professor Yann-Gaël Guéhéneuc and a Master’s student in Computer Science at Concordia University, where he works on Software Engineering, Software Quality, and Smart Cities Projects. Vinicius completed his Bachelor’s in Computer Science at Universidade Federal do Paraná (Brazil), where he worked on research projects involving data analysis and network science.
+
 # Cristiano Politowski
 > Post-doc., Université de Montréal
 
