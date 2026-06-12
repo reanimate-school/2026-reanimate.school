@@ -71,12 +71,12 @@ Program of the school, don't hesitate to contact us with any questions/ideas.
 |---:|:---|
 | 08:00 - 09:00 | &nbsp; Breakfast |
 | 09:00 - 10:00 | &nbsp; Game Jam: Wrap-up |
-| 10:00 - 11:00 | &nbsp; Presentation by Giuseppe Destefanis |
+| 10:00 - 11:00 | &nbsp; Evaluations! |
 | 11:00 - 11:15 | &nbsp; Coffee Break |
-| 11:15 - 12:15 | &nbsp; Presentation by Frédérick Maheux |
+| 11:15 - 12:15 | &nbsp; Evaluations! |
 | 12:15 - 14:00 | &nbsp; Lightning talks, Lunch, and Championship |
-| 14:00 - 15:00 | &nbsp; Game Jam: Vote |
-| 15:00 - 16:00 | &nbsp; Game Jam: Celebrations |
+| 14:00 - 15:00 | &nbsp; Presentation by Yann-Gaël Guéhéneuc |
+| 15:00 - 16:00 | &nbsp; Feedback and Future |
 | 16:00 - 17:00 | &nbsp; Closing Session |
 | 17:00+ | &nbsp; Social Event at Champagne Box |
 
