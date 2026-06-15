@@ -117,7 +117,7 @@ preserveTaxonomyNames = true
 
   [[menu.main]]
     identifier = "2027"
-    name = "2025"
+    name = "2027"
     url = "https://2027.reanimate.school"
     weight = 20
 

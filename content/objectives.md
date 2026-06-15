@@ -33,4 +33,3 @@ Participants will have the opportunity to engage with a vibrant community of ret
 ## Professional Development
 
 Participants will gain knowledge, skills, and techniques that can be applied beyond the summer school, including the bases of the history of gaming, critical thinking, and game development. They will have the opportunity to network with peers and industry professionals.
-

@@ -14,11 +14,11 @@ Five days, providing ample time for theoretical learning and hands-on practical 
 
 # Where?
 
-Concordia University, at the heart of Montréal, in a conference room for the theoretical sessions and a fully-equipped, state-of-the-art computer lab. for the hands-on sessions. The conference room will be ER1072, located on the 10th floor of the ER building at 2155 Guy. The computer lab will be located in the Hall building, in which all teaching activities take place during the year.
+Concordia University, at the heart of Montréal, in a conference room for the theoretical sessions and a fully-equipped, state-of-the-art computer lab. for the hands-on sessions. The conference room is ER1072, located on the 10th floor of the ER building at 2155 Guy.
 
 # When?
 
-From Mon. Jun. 8th to Fri. Jun. 12th, 2026, in conjunction with CGSA.
+From Mon. Jun. 8th to Fri. Jun. 12th, 2026.
 
 # Why?
 
