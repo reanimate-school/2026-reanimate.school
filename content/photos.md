@@ -5,4 +5,4 @@ description = ""
 +++
 
 Some photos taken during the school!
-{{< gallery dir="photos" >}}
+{{< gallery dir="Photos" >}}
