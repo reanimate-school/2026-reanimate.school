@@ -6,22 +6,10 @@ author = "Yann"
 
 Some photos taken during the school!
 
-## Mon. Jun. 8th
-
-{{< gallery dir="Photos/June 08th Mon/" >}}
-
-## Tue. Jun. 9th
-
-{{< gallery dir="Photos/June 09th Tue/" >}}
-
-## Wed. Jun. 10th
-
-{{< gallery dir="Photos/June 10th Wed/" >}}
-
-## Thu. Jun. 11th
-
-{{< gallery dir="Photos/June 11th Thu/" >}}
-
-## Fri. Jun. 12th
-
-{{< gallery dir="Photos/June 12th Fri/" >}}
+<ul>
+<li>[Mon. Jun. 8th](/photos08)
+<li>[Tue. Jun. 9th](/photos08)
+<li>[Wed. Jun. 10th](/photos08)
+<li>[Thu. Jun. 11th](/photos08)
+<li>[Fri. Jun. 12th](/photos08)
+</ul>

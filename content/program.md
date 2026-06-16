@@ -29,7 +29,7 @@ Program of the school, don't hesitate to contact us with any questions/ideas.
 | 09:00 - 10:00 | &nbsp; [Game Jam: Directions + Teams](/organisers) [[PDF](/Presentations/260609a - Game Jam.pdf)] |
 | 10:00 - 11:00 | &nbsp; [Game Jam: Presentation of CRVJA](/organisers) [[PDF](/Presentations/260609b - Game Jam - CRVJA Demo.pdf)] |
 | 11:00 - 11:15 | &nbsp; Coffee Break |
-| 11:15 - 12:15 | &nbsp; Game Jam |
+| 11:15 - 12:15 | &nbsp; [Game Jam](/gamejam) |
 | 12:15 - 14:00 | &nbsp; Lightning talks, Lunch, and Championship |
 | 14:00 - 16:00 | &nbsp; Keynote by [Leo Binkowski](/speakers) |
 | 16:00 - 17:00 | &nbsp; Game Jam |
@@ -41,12 +41,12 @@ Program of the school, don't hesitate to contact us with any questions/ideas.
 | Jun. 10 | &nbsp; Wednesday |
 |---:|:---|
 | 08:00 - 09:00 | &nbsp; Breakfast |
-| 09:00 - 10:00 | &nbsp; Game Jam |
-| 10:00 - 11:00 | &nbsp; Game Jam |
+| 09:00 - 10:00 | &nbsp; [Game Jam](/gamejam) |
+| 10:00 - 11:00 | &nbsp; [Game Jam](/gamejam) |
 | 11:00 - 11:15 | &nbsp; Coffee Break |
-| 11:15 - 12:15 | &nbsp; Game Jam |
+| 11:15 - 12:15 | &nbsp; [Game Jam](/gamejam) |
 | 12:15 - 14:00 | &nbsp; Lightning talks, Lunch, and Championship |
-| 14:00 - 17:00 | &nbsp; Game Jam |
+| 14:00 - 17:00 | &nbsp; [Game Jam](/gamejam)|
 
 <br/>
 
@@ -55,12 +55,12 @@ Program of the school, don't hesitate to contact us with any questions/ideas.
 | Jun. 11 | &nbsp; Thursday |
 |---:|:---|
 | 08:00 - 09:00 | &nbsp; Breakfast |
-| 09:00 - 10:00 | &nbsp; Game Jam |
-| 10:00 - 11:00 | &nbsp; Game Jam |
+| 09:00 - 10:00 | &nbsp; [Game Jam](/gamejam) |
+| 10:00 - 11:00 | &nbsp; [Game Jam](/gamejam) |
 | 11:00 - 11:15 | &nbsp; Coffee Break |
-| 11:15 - 12:15 | &nbsp; Game Jam |
+| 11:15 - 12:15 | &nbsp; [Game Jam](/gamejam) |
 | 12:15 - 14:00 | &nbsp; Lightning talks, Lunch, and Championship |
-| 14:00 - 17:00 | &nbsp; Game Jam |
+| 14:00 - 17:00 | &nbsp; [Game Jam](/gamejam) |
 | 17:00+ | &nbsp; Social Event at Arcade MTL |
 
 <br/>
@@ -70,8 +70,8 @@ Program of the school, don't hesitate to contact us with any questions/ideas.
 | Jun. 12 | &nbsp; Friday |
 |---:|:---|
 | 08:00 - 09:00 | &nbsp; Breakfast |
-| 09:00 - 10:00 | &nbsp; Game Jam: Wrap-up |
-| 10:00 - 11:00 | &nbsp; Evaluations! |
+| 09:00 - 10:00 | &nbsp; [Game Jam: Wrap-up](/gamejam) |
+| 10:00 - 11:00 | &nbsp; [Game Jam: Evaluations!](/gamejam) |
 | 11:00 - 11:15 | &nbsp; Coffee Break |
 | 11:15 - 12:15 | &nbsp; Evaluations! |
 | 12:15 - 14:00 | &nbsp; Lightning talks, Lunch, and Championship |
