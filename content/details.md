@@ -1,3 +1,9 @@
++++
+title = "Details"
+date = "2026-04-02"
+author = "Yann"
++++
+
 # A Medium for Us All: Humanities and Engineering Collaborations in Retro Game Studies
 ## Aleksander Franiczek
 

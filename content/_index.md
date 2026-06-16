@@ -1,5 +1,7 @@
 +++
-
+title = "Index"
+date = "2026-04-02"
+author = "Yann"
 +++
 
 <center><img width=500 src="/logo.jpg"/></center><br/>

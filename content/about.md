@@ -1,9 +1,7 @@
 +++
 title = "About"
-description = "ENG"
-date = "2019-02-28"
-aliases = ["about-us"]
-author = ""
+date = "2026-04-02"
+author = "Yann"
 +++
 
 There has been for many years now an interest in “old” games, either real old games or recent games with an “old” look and feel. The retro gaming community has grown from very niche to mainstream, following the general trend of gaming. Retro gaming has also entered the general psyche with books, movies, documentaries, articles, etc. becoming mainstream. However, despite this mainstream status and some recent books, retro gaming remains under-studied in academia and existing research rarely enters mass media.

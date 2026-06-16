@@ -1,9 +1,7 @@
 +++
 title = "Organisers"
-description = ""
-date = "2023-10-31"
-aliases = ["organizers","committee"]
-author = ""
+date = "2026-04-02"
+author = "Yann"
 +++
 
 # Yann-Gaël Guéhéneuc

@@ -1,7 +1,7 @@
 +++
 title = "Objectives"
-date = "2023-10-31"
-author = ""
+date = "2026-04-02"
+author = "Yann"
 +++
 
 This summer school will be an immersive and educational event introducing participants to the fascinating world of retro-computing gaming. The program's primary objective is to provide a unique learning experience that combines the nostalgic appeal of retro gaming with the exploration of computing history and technology. Specifically, the summer school has the following clear and achievable program objectives and outcomes:
