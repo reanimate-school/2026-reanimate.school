@@ -35,9 +35,18 @@ The [source code](/GameJam/EscapeFromReanimate_Kotowicz_Maher_Abdalla_Ullmann/Co
 
 # Evaluations
 
-We had the honour to have [Chris Gibbs](/) as judge of the game jam. Chris, upon graduating with a degree in Software Engineering in 1988, co-founded the UK games development studio, Attention To Detail and was its managing director through until 2003. ATD designed and developed video games for publishers worldwide, across all genres but notably racing, sports and action. From 2003 to 2012, Chris was Executive Producer and Studio Manager for Electronic Arts, specialising in Mobile Game Development and pioneering the move to touchscreens and games-as-a service. From 2014 to 2019 Chris designed, developed, and launched his own mobile game, Smart Numbers, which Apple made Game of the Week in over 50 countries.
+We had the honour to have [Chris Gibbs](https://www.linkedin.com/in/christopher-gibbs-50458223/) as judge of the game jam. Chris, upon graduating with a degree in Software Engineering in 1988, co-founded the UK games development studio, Attention To Detail and was its managing director through until 2003. ATD designed and developed video games for publishers worldwide, across all genres but notably racing, sports and action. From 2003 to 2012, Chris was Executive Producer and Studio Manager for Electronic Arts, specialising in Mobile Game Development and pioneering the move to touchscreens and games-as-a service. From 2014 to 2019 Chris designed, developed, and launched his own mobile game, Smart Numbers, which Apple made Game of the Week in over 50 countries.
 
-Chris gave a thorough and thoughtful evaluation of each game and awarded some (Monopoly) "advances" to each one of them to flesh out their demos. 
+The [evaluation criteria](/Presentations/260609a - Game Jam.pdf) set by Chris were in no particular order:
+
+- Competitive advantage
+- Intended audience
+- Core gameplay
+- Monetisation
+- Realisation
+- Design
+
+Chris gave a [thorough and thoughtful evaluation](/GameJam/Evaluations.mp4) of each game and awarded some (Monopoly) "advances" to each one of them to flesh out their demos. 
 
 - First place ex-aequo: Escape From Reanimate, $250,000
 - First place ex-aequo: Park Bedlam, $250,000
