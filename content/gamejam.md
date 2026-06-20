@@ -21,7 +21,7 @@ Five highly-motivated teams worked for three days straight to design, draw, and 
 
 Escape From ReAnimate is an adventure game written in CRVJA v1.1 that draws inspiration from classic point-and-click games from the 90s and early 2000s, such as Grim Fandango and Twinsen's Odyssey. In this game, you control an IT support employee who is working after hours, is forgotten by the summer school organisers, and ends up being left behind and getting locked inside the room ER1072. To leave, he needs to find the door's keycode by carefully analysing the clues on the rooms' posters, computers, and furniture. Escape From ReAnimate provides a short but fun experience for both ReAnimate participants and anyone interested in adventure, exploration, and puzzle games. It is appropriate for all ages and clearly displays text instructions to guide the player throughout their adventure.
 
-The [source code](/GameJam/EscapeFromReanimate_Kotowicz_Maher_Abdalla_Ullmann/Code/Game.asc) and the sprite banks ([1](/GameJam/EscapeFromReanimate_Kotowicz_Maher_Abdalla_Ullmann/Banks/AmosBank_Escape1.abk) and [2](/GameJam/EscapeFromReanimate_Kotowicz_Maher_Abdalla_Ullmann/Banks/AmosBank_Escape2.abk)) are available under the GPLv3+.
+The [source code](/GameJam/EscapeFromReanimate_Kotowicz_Maher_Abdalla_Ullmann/Code/Game.asc) and the sprite banks ([1](/GameJam/EscapeFromReanimate_Kotowicz_Maher_Abdalla_Ullmann/Code/AmosBank_Escape1.abk) and [2](/GameJam/EscapeFromReanimate_Kotowicz_Maher_Abdalla_Ullmann/Code/AmosBank_Escape2.abk)) are available under the GPLv3+.
 
 #### Screenshots
 
