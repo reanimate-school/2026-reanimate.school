@@ -25,7 +25,13 @@ The [source code](/GameJam/EscapeFromReanimate_Kotowicz_Maher_Abdalla_Ullmann/Co
 
 ### Screenshots
 
-![Source code](/GameJam/EscapeFromReanimate_Kotowicz_Maher_Abdalla_Ullmann/Screenshot1.png "Source code")
+[![Source code](/GameJam/EscapeFromReanimate_Kotowicz_Maher_Abdalla_Ullmann/Screenshot1.thumb.png "Source code")](/GameJam/EscapeFromReanimate_Kotowicz_Maher_Abdalla_Ullmann/Screenshot1.png)
+
+[![Source code](/GameJam/EscapeFromReanimate_Kotowicz_Maher_Abdalla_Ullmann/Screenshot2.thumb.png "Source code")](/GameJam/EscapeFromReanimate_Kotowicz_Maher_Abdalla_Ullmann/Screenshot2.png)
+
+[![Source code](/GameJam/EscapeFromReanimate_Kotowicz_Maher_Abdalla_Ullmann/Screenshot3.thumb.png "Source code")](/GameJam/EscapeFromReanimate_Kotowicz_Maher_Abdalla_Ullmann/Screenshot3.png)
+
+[![Source code](/GameJam/EscapeFromReanimate_Kotowicz_Maher_Abdalla_Ullmann/Screenshot4.thumb.png "Source code")](/GameJam/EscapeFromReanimate_Kotowicz_Maher_Abdalla_Ullmann/Screenshot4.png)
 
 ### Demo
 
