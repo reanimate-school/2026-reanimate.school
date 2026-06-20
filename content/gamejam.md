@@ -16,38 +16,38 @@ The game jam is highly collaborative, with participants from diverse backgrounds
 
 Five highly-motivated teams worked for three days straight to design, draw, and implement their games, with the material and software support of the organisers.
 
-# Escape From Reanimate
+### Escape From Reanimate
 > Amr Abdalla, Alexandre Kotowicz, Ali Maher, and Gabriel Ullmann
 
 Escape From ReAnimate is an adventure game written in CRVJA v1.1 that draws inspiration from classic point-and-click games from the 90s and early 2000s, such as Grim Fandango and Twinsen's Odyssey. In this game, you control an IT support employee who is working after hours, is forgotten by the summer school organisers, and ends up being left behind and getting locked inside the room ER1072. To leave, he needs to find the door's keycode by carefully analysing the clues on the rooms' posters, computers, and furniture. Escape From ReAnimate provides a short but fun experience for both ReAnimate participants and anyone interested in adventure, exploration, and puzzle games. It is appropriate for all ages and clearly displays text instructions to guide the player throughout their adventure.
 
 The [source code](/GameJam/EscapeFromReanimate_Kotowicz_Maher_Abdalla_Ullmann/Code/Game.asc) and the sprite banks ([1](/GameJam/EscapeFromReanimate_Kotowicz_Maher_Abdalla_Ullmann/Banks/AmosBank_Escape1.abk) and [2](/GameJam/EscapeFromReanimate_Kotowicz_Maher_Abdalla_Ullmann/Banks/AmosBank_Escape2.abk)) are available under the GPLv3+.
 
-### Screenshots
+#### Screenshots
 
 [![Source code](/GameJam/EscapeFromReanimate_Kotowicz_Maher_Abdalla_Ullmann/Screenshot1.thumb.png "Source code")](/GameJam/EscapeFromReanimate_Kotowicz_Maher_Abdalla_Ullmann/Screenshot1.png) [![Source code](/GameJam/EscapeFromReanimate_Kotowicz_Maher_Abdalla_Ullmann/Screenshot2.thumb.png "Source code")](/GameJam/EscapeFromReanimate_Kotowicz_Maher_Abdalla_Ullmann/Screenshot2.png) [![Source code](/GameJam/EscapeFromReanimate_Kotowicz_Maher_Abdalla_Ullmann/Screenshot3.thumb.png "Source code")](/GameJam/EscapeFromReanimate_Kotowicz_Maher_Abdalla_Ullmann/Screenshot3.png) [![Source code](/GameJam/EscapeFromReanimate_Kotowicz_Maher_Abdalla_Ullmann/Screenshot4.thumb.png "Source code")](/GameJam/EscapeFromReanimate_Kotowicz_Maher_Abdalla_Ullmann/Screenshot4.png)
 
-### Demo
+#### Demo
 
 [![Demo](/GameJam/EscapeFromReanimate_Kotowicz_Maher_Abdalla_Ullmann/Screenshot1.thumb.png)](/GameJam/EscapeFromReanimate_Kotowicz_Maher_Abdalla_Ullmann/Gameplay.mp4)
 
 
 
-# Galaxy Patrol
+### Galaxy Patrol
 > Tahereh Bijani, Kevin C. Chua, Diego Tondorf, and Minette Zongo Meyo
 
 
 
-# Park Bedlam
+### Park Bedlam
 > Sikandar Ejaz, Aleksander Franiczek, Luca Scistri, and Al Muqshith Shifan
 
 
 
-# Welcome to the Backrooms
+### Welcome to the Backrooms
 > Evan Bigot, Marco Uriel Lopez Garcia, Cristiano Politowski, and Henrique Serra
 
 
-# World of Iris
+### World of Iris
 > Yann-Gaël Guéhéneuc, Vinicius Mioto, Fabio Petrillo, and Peter Yefi
 
 
