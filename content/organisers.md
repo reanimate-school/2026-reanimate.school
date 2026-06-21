@@ -26,7 +26,7 @@ Although he has not yet finished his bachelor's in Computer Science in his home 
 Vinicius Mioto is a research assistant of Professor Yann-Gaël Guéhéneuc and a Master’s student in Computer Science at Concordia University, where he works on Software Engineering, Software Quality, and Smart Cities Projects. Vinicius completed his Bachelor’s in Computer Science at Universidade Federal do Paraná (Brazil), where he worked on research projects involving data analysis and network science.
 
 # Cristiano Politowski
-> Post-doc., Université de Montréal
+> Assistant Professor, Ontario Tech University 
 
 Cristiano Politowski is an Assistant Professor of Computer Science in the Faculty of Science at Ontario Tech University. He previously held postdoctoral appointments at the Université de Montréal’s Software Engineering Research Group (working with Houari Sahraoui and Michalis Famelis) and at École de Technologie Supérieure (ÉTS) in Montréal (working with Ghizlane El-Boussaidi). He earned his Ph.D. in Computer Science and Software Engineering from Concordia University under the supervision of Yann-Gaël Guéhéneuc, with Fabio Petrillo as co-supervisor. Cristiano’s research focuses on video-game development, software testing and quality, artificial intelligence for software engineering, deep reinforcement learning, and empirical software engineering. 
 
