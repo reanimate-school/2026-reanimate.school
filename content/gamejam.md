@@ -1,5 +1,5 @@
 +++
-title = "Game Jam"
+title = "Game_Jam"
 date = "2026-04-02"
 author = "Yann"
 +++
