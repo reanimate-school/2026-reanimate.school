@@ -44,11 +44,11 @@ See also the [pitch presentation](/GameJam/GalaxyPatrol_Tondorf_Chua_Zongo_Bijan
 
 #### Screenshots
 
-![Screenshot1](/GameJam/GalaxyPatrol_Tondorf_Chua_Zongo_Bijani/Screenshot1.png "Screenshot1") ![Screenshot2](/GameJam/GalaxyPatrol_Tondorf_Chua_Zongo_Bijani/Screenshot2.png "Screenshot2") ![Screenshot3](/GameJam/GalaxyPatrol_Tondorf_Chua_Zongo_Bijani/Screenshot3.png "Screenshot3") ![Screenshot4](/GameJam/GalaxyPatrol_Tondorf_Chua_Zongo_Bijani/Screenshot4.png "Screenshot4")
+[![Screenshot1](/GameJam/GalaxyPatrol_Tondorf_Chua_Zongo_Bijani/Screenshot1.thumb.png "Screenshot1")](/GameJam/GalaxyPatrol_Tondorf_Chua_Zongo_Bijani/Screenshot1.png) [![Screenshot2](/GameJam/GalaxyPatrol_Tondorf_Chua_Zongo_Bijani/Screenshot2.thumb.png "Screenshot2")](/GameJam/GalaxyPatrol_Tondorf_Chua_Zongo_Bijani/Screenshot2.png) [![Screenshot3](/GameJam/GalaxyPatrol_Tondorf_Chua_Zongo_Bijani/Screenshot3.thumb.png "Screenshot3")](/GameJam/GalaxyPatrol_Tondorf_Chua_Zongo_Bijani/Screenshot3.png) [![Screenshot4](/GameJam/GalaxyPatrol_Tondorf_Chua_Zongo_Bijani/Screenshot4.thumb.png "Screenshot4")](/GameJam/GalaxyPatrol_Tondorf_Chua_Zongo_Bijani/Screenshot4.png)
 
 #### Demo
 
-[![Demo](/GameJam/GalaxyPatrol_Tondorf_Chua_Zongo_Bijani/Screenshot1.png)](/GameJam/GalaxyPatrol_Tondorf_Chua_Zongo_Bijani/Gameplay.mp4)
+[![Demo](/GameJam/GalaxyPatrol_Tondorf_Chua_Zongo_Bijani/Screenshot1.thumb.png)](/GameJam/GalaxyPatrol_Tondorf_Chua_Zongo_Bijani/Gameplay.mp4)
 
 
 
@@ -75,11 +75,11 @@ See also the [pitch presentation](/GameJam/ParkBedlam_Shifan_Franiczek_Ejaz_Scis
 
 #### Screenshots
 
-![Screenshot1](/GameJam/ParkBedlam_Shifan_Franiczek_Ejaz_Scistri/Screenshot1.png "Screenshot1") ![Screenshot2](/GameJam/ParkBedlam_Shifan_Franiczek_Ejaz_Scistri/Screenshot2.png "Screenshot2") ![Screenshot3](/GameJam/ParkBedlam_Shifan_Franiczek_Ejaz_Scistri/Screenshot3.png "Screenshot3") ![Screenshot4](/GameJam/ParkBedlam_Shifan_Franiczek_Ejaz_Scistri/Screenshot4.png "Screenshot4")
+[![Screenshot1](/GameJam/ParkBedlam_Shifan_Franiczek_Ejaz_Scistri/Screenshot1.thumb.png "Screenshot1")](/GameJam/ParkBedlam_Shifan_Franiczek_Ejaz_Scistri/Screenshot1.png) [![Screenshot2](/GameJam/ParkBedlam_Shifan_Franiczek_Ejaz_Scistri/Screenshot2.thumb.png "Screenshot2")(/GameJam/ParkBedlam_Shifan_Franiczek_Ejaz_Scistri/Screenshot2.png) [![Screenshot3](/GameJam/ParkBedlam_Shifan_Franiczek_Ejaz_Scistri/Screenshot3.thumb.png "Screenshot3")(/GameJam/ParkBedlam_Shifan_Franiczek_Ejaz_Scistri/Screenshot3.png) [![Screenshot4](/GameJam/ParkBedlam_Shifan_Franiczek_Ejaz_Scistri/Screenshot4.thumb.png "Screenshot4")(/GameJam/ParkBedlam_Shifan_Franiczek_Ejaz_Scistri/Screenshot4.png)
 
 #### Demo
 
-[![Demo](/GameJam/ParkBedlam_Shifan_Franiczek_Ejaz_Scistri/Screenshot1.png)](/GameJam/ParkBedlam_Shifan_Franiczek_Ejaz_Scistri/Gameplay.mp4)
+[![Demo](/GameJam/ParkBedlam_Shifan_Franiczek_Ejaz_Scistri/Screenshot1.thumb.png)](/GameJam/ParkBedlam_Shifan_Franiczek_Ejaz_Scistri/Gameplay.mp4)
 
 
 
@@ -97,11 +97,11 @@ See also the [game design document](/GameJam/Welcome_to_the_Backrooms_Politowski
 
 #### Screenshots
 
-![Screenshot1](/GameJam/Welcome_to_the_Backrooms_Politowski_Bigot_Serra_Lopez/Screenshot1.png "Screenshot1") ![Screenshot2](/GameJam/Welcome_to_the_Backrooms_Politowski_Bigot_Serra_Lopez/Screenshot2.png "Screenshot2") ![Screenshot3](/GameJam/Welcome_to_the_Backrooms_Politowski_Bigot_Serra_Lopez/Screenshot3.png "Screenshot3") ![Screenshot4](/GameJam/Welcome_to_the_Backrooms_Politowski_Bigot_Serra_Lopez/Screenshot4.png "Screenshot4")
+[![Screenshot1](/GameJam/Welcome_to_the_Backrooms_Politowski_Bigot_Serra_Lopez/Screenshot1.thumb.png "Screenshot1")](/GameJam/Welcome_to_the_Backrooms_Politowski_Bigot_Serra_Lopez/Screenshot1.png) [![Screenshot2](/GameJam/Welcome_to_the_Backrooms_Politowski_Bigot_Serra_Lopez/Screenshot2.thumb.png "Screenshot2")](/GameJam/Welcome_to_the_Backrooms_Politowski_Bigot_Serra_Lopez/Screenshot2.png) [![Screenshot3](/GameJam/Welcome_to_the_Backrooms_Politowski_Bigot_Serra_Lopez/Screenshot3.thumb.png "Screenshot3")](/GameJam/Welcome_to_the_Backrooms_Politowski_Bigot_Serra_Lopez/Screenshot3.png) [![Screenshot4](/GameJam/Welcome_to_the_Backrooms_Politowski_Bigot_Serra_Lopez/Screenshot4.thumb.png "Screenshot4")](/GameJam/Welcome_to_the_Backrooms_Politowski_Bigot_Serra_Lopez/Screenshot4.png)
 
 #### Demo
 
-[![Demo](/GameJam/Welcome_to_the_Backrooms_Politowski_Bigot_Serra_Lopez/Screenshot1.png)](/GameJam/Welcome_to_the_Backrooms_Politowski_Bigot_Serra_Lopez/Gameplay.mp4)
+[![Demo](/GameJam/Welcome_to_the_Backrooms_Politowski_Bigot_Serra_Lopez/Screenshot1.thumb.png)](/GameJam/Welcome_to_the_Backrooms_Politowski_Bigot_Serra_Lopez/Gameplay.mp4)
 
 
 
@@ -114,11 +114,11 @@ See also the [pitch presentation](/GameJam/WorldOfIris_Mioto_Petrillo_Yefi_Guéh
 
 #### Screenshots
 
-![Screenshot1](/GameJam/WorldOfIris_Mioto_Petrillo_Yefi_Guéhéneuc/Screenshot1.png "Screenshot1") ![Screenshot2](/GameJam/WorldOfIris_Mioto_Petrillo_Yefi_Guéhéneuc/Screenshot2.png "Screenshot2") ![Screenshot3](/GameJam/WorldOfIris_Mioto_Petrillo_Yefi_Guéhéneuc/Screenshot3.png "Screenshot3") ![Screenshot4](/GameJam/WorldOfIris_Mioto_Petrillo_Yefi_Guéhéneuc/Screenshot4.png "Screenshot4")
+[![Screenshot1](/GameJam/WorldOfIris_Mioto_Petrillo_Yefi_Guéhéneuc/Screenshot1.thumb.png "Screenshot1")](/GameJam/WorldOfIris_Mioto_Petrillo_Yefi_Guéhéneuc/Screenshot1.png) [![Screenshot2](/GameJam/WorldOfIris_Mioto_Petrillo_Yefi_Guéhéneuc/Screenshot2.thumb.png "Screenshot2")](/GameJam/WorldOfIris_Mioto_Petrillo_Yefi_Guéhéneuc/Screenshot2.png) [![Screenshot3](/GameJam/WorldOfIris_Mioto_Petrillo_Yefi_Guéhéneuc/Screenshot3.thumb.png "Screenshot3")](/GameJam/WorldOfIris_Mioto_Petrillo_Yefi_Guéhéneuc/Screenshot3.png) [![Screenshot4](/GameJam/WorldOfIris_Mioto_Petrillo_Yefi_Guéhéneuc/Screenshot4.thumb.png "Screenshot4")](/GameJam/WorldOfIris_Mioto_Petrillo_Yefi_Guéhéneuc/Screenshot4.png)
 
 #### Demo
 
-[![Demo](/GameJam/WorldOfIris_Mioto_Petrillo_Yefi_Guéhéneuc/Screenshot1.png)](/GameJam/WorldOfIris_Mioto_Petrillo_Yefi_Guéhéneuc/Gameplay.mp4)
+[![Demo](/GameJam/WorldOfIris_Mioto_Petrillo_Yefi_Guéhéneuc/Screenshot1.thumb.png)](/GameJam/WorldOfIris_Mioto_Petrillo_Yefi_Guéhéneuc/Gameplay.mp4)
 
 
 
