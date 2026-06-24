@@ -75,7 +75,7 @@ See also the [pitch presentation](/GameJam/ParkBedlam_Shifan_Franiczek_Ejaz_Scis
 
 #### Screenshots
 
-[![Screenshot1](/GameJam/ParkBedlam_Shifan_Franiczek_Ejaz_Scistri/Screenshot1.thumb.png "Screenshot1")](/GameJam/ParkBedlam_Shifan_Franiczek_Ejaz_Scistri/Screenshot1.png) [![Screenshot2](/GameJam/ParkBedlam_Shifan_Franiczek_Ejaz_Scistri/Screenshot2.thumb.png "Screenshot2")(/GameJam/ParkBedlam_Shifan_Franiczek_Ejaz_Scistri/Screenshot2.png) [![Screenshot3](/GameJam/ParkBedlam_Shifan_Franiczek_Ejaz_Scistri/Screenshot3.thumb.png "Screenshot3")(/GameJam/ParkBedlam_Shifan_Franiczek_Ejaz_Scistri/Screenshot3.png) [![Screenshot4](/GameJam/ParkBedlam_Shifan_Franiczek_Ejaz_Scistri/Screenshot4.thumb.png "Screenshot4")(/GameJam/ParkBedlam_Shifan_Franiczek_Ejaz_Scistri/Screenshot4.png)
+[![Screenshot1](/GameJam/ParkBedlam_Shifan_Franiczek_Ejaz_Scistri/Screenshot1.thumb.png "Screenshot1")](/GameJam/ParkBedlam_Shifan_Franiczek_Ejaz_Scistri/Screenshot1.png) [![Screenshot2](/GameJam/ParkBedlam_Shifan_Franiczek_Ejaz_Scistri/Screenshot2.thumb.png "Screenshot2")](/GameJam/ParkBedlam_Shifan_Franiczek_Ejaz_Scistri/Screenshot2.png) [![Screenshot3](/GameJam/ParkBedlam_Shifan_Franiczek_Ejaz_Scistri/Screenshot3.thumb.png "Screenshot3")](/GameJam/ParkBedlam_Shifan_Franiczek_Ejaz_Scistri/Screenshot3.png) [![Screenshot4](/GameJam/ParkBedlam_Shifan_Franiczek_Ejaz_Scistri/Screenshot4.thumb.png "Screenshot4")](/GameJam/ParkBedlam_Shifan_Franiczek_Ejaz_Scistri/Screenshot4.png)
 
 #### Demo
 
