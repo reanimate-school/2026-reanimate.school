@@ -144,3 +144,12 @@ Chris gave a [thorough and thoughtful evaluation](/GameJam/Evaluations.mp4) of e
 - Third ex-aequo place: World of Iris, $100,000
 
 C-O-N-G-R-A-T-U-L-A-T-I-O-N-S!
+
+[![EscapeFromReanimate](/GameJam/Evaluations/EscapeFromReanimate.thumb.jpg "EscapeFromReanimate")](/GameJam/Evaluations/EscapeFromReanimate.jpg)
+[![GalaxyPatrol](/GameJam/Evaluations/GalaxyPatrol.thumb.jpg "GalaxyPatrol")](/GameJam/Evaluations/GalaxyPatrol.jpg)
+[![ParkBedlam](/GameJam/Evaluations/ParkBedlam.thumb.jpg "EscapeFromReanimate")](/GameJam/Evaluations/ParkBedlam.jpg)
+[![Welcome_to_the_Backrooms](/GameJam/Evaluations/Welcome_to_the_Backrooms.thumb.jpg "Welcome_to_the_Backrooms")](/GameJam/Evaluations/Welcome_to_the_Backrooms.jpg)
+[![WorldOfIris](/GameJam/Evaluations/WorldOfIris.thumb.jpg "WorldOfIris")](/GameJam/Evaluations/WorldOfIris.jpg)
+[![TheJudge](/GameJam/Evaluations/TheJudge.thumb.jpg "TheJudge")](/GameJam/Evaluations/TheJudge.jpg)
+[![TheWinners](/GameJam/Evaluations/TheWinners.thumb.jpg "TheWinners")](/GameJam/Evaluations/TheWinners.jpg)
+[![TheEnd](/GameJam/Evaluations/TheEnd.thumb.jpg "TheEnd")](/GameJam/Evaluations/TheEnd.jpg)
