@@ -1,6 +1,6 @@
 +++
 title = "Game_Jam"
-date = "2026-04-02"
+date = "2026-07-09"
 author = "Yann"
 +++
 
@@ -31,7 +31,7 @@ See also the [game design document](/GameJam/EscapeFromReanimate_Kotowicz_Maher_
 
 #### Demo
 
-[![Demo](/GameJam/EscapeFromReanimate_Kotowicz_Maher_Abdalla_Ullmann/Screenshot1.thumb.png)](/GameJam/EscapeFromReanimate_Kotowicz_Maher_Abdalla_Ullmann/Gameplay.mp4)
+[![Demo](/GameJam/EscapeFromReanimate_Kotowicz_Maher_Abdalla_Ullmann/Screenshot1.thumb.png)](https://www.youtube.com/watch?v=qcS9Sc26CS0)
 
 
 
@@ -48,7 +48,7 @@ See also the [pitch presentation](/GameJam/GalaxyPatrol_Tondorf_Chua_Zongo_Bijan
 
 #### Demo
 
-[![Demo](/GameJam/GalaxyPatrol_Tondorf_Chua_Zongo_Bijani/Screenshot1.thumb.png)](/GameJam/GalaxyPatrol_Tondorf_Chua_Zongo_Bijani/Gameplay.mp4)
+![Demo](/GameJam/GalaxyPatrol_Tondorf_Chua_Zongo_Bijani/Screenshot1.thumb.png)
 
 
 
@@ -79,7 +79,7 @@ See also the [pitch presentation](/GameJam/ParkBedlam_Shifan_Franiczek_Ejaz_Scis
 
 #### Demo
 
-[![Demo](/GameJam/ParkBedlam_Shifan_Franiczek_Ejaz_Scistri/Screenshot1.thumb.png)](/GameJam/ParkBedlam_Shifan_Franiczek_Ejaz_Scistri/Gameplay.mp4)
+![Demo](/GameJam/ParkBedlam_Shifan_Franiczek_Ejaz_Scistri/Screenshot1.thumb.png)
 
 
 
@@ -101,7 +101,9 @@ See also the [game design document](/GameJam/Welcome_to_the_Backrooms_Politowski
 
 #### Demo
 
-[![Demo](/GameJam/Welcome_to_the_Backrooms_Politowski_Bigot_Serra_Lopez/Screenshot1.thumb.png)](/GameJam/Welcome_to_the_Backrooms_Politowski_Bigot_Serra_Lopez/Gameplay.mp4)
+[![Introduction](/GameJam/Welcome_to_the_Backrooms_Politowski_Bigot_Serra_Lopez/Screenshot1.thumb.png)](https://www.youtube.com/shorts/2NUfIu45X74)
+
+[![Demo](/GameJam/Welcome_to_the_Backrooms_Politowski_Bigot_Serra_Lopez/Screenshot1.thumb.png)](https://www.youtube.com/watch?v=C_HPeZrqYa0)
 
 
 
@@ -118,7 +120,7 @@ See also the [pitch presentation](/GameJam/WorldOfIris_Mioto_Petrillo_Yefi_Guéh
 
 #### Demo
 
-[![Demo](/GameJam/WorldOfIris_Mioto_Petrillo_Yefi_Guéhéneuc/Screenshot1.thumb.png)](/GameJam/WorldOfIris_Mioto_Petrillo_Yefi_Guéhéneuc/Gameplay.mp4)
+![Demo](/GameJam/WorldOfIris_Mioto_Petrillo_Yefi_Guéhéneuc/Screenshot1.thumb.png)
 
 
 
