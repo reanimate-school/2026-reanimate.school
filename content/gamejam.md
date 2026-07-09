@@ -137,7 +137,7 @@ The [evaluation criteria](/Presentations/260609a - Game Jam.pdf) set by Chris we
 - Realisation
 - Design
 
-Chris gave a [thorough and thoughtful evaluation](/GameJam/Evaluations.mp4) of each game and awarded some (Monopoly) "advances" to each one of them to flesh out their demos. 
+Chris gave a [thorough and thoughtful evaluation](https://www.youtube.com/watch?v=uYSlTg1YJ4I) of each game and awarded some (Monopoly) "advances" to each one of them to flesh out their demos. 
 
 - First place ex-aequo: Escape From Reanimate, $250,000
 - First place ex-aequo: Park Bedlam, $250,000
