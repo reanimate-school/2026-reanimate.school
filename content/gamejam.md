@@ -120,7 +120,7 @@ See also the [pitch presentation](/GameJam/WorldOfIris_Mioto_Petrillo_Yefi_Guéh
 
 #### Demo
 
-![Demo](/GameJam/WorldOfIris_Mioto_Petrillo_Yefi_Guéhéneuc/Screenshot1.thumb.png)
+[![Demo](/GameJam/WorldOfIris_Mioto_Petrillo_Yefi_Guéhéneuc/Screenshot1.thumb.png)](https://www.youtube.com/watch?v=W8Klisl7VjA)
 
 
 
