@@ -79,7 +79,7 @@ See also the [pitch presentation](/GameJam/ParkBedlam_Shifan_Franiczek_Ejaz_Scis
 
 #### Demo
 
-![Demo](/GameJam/ParkBedlam_Shifan_Franiczek_Ejaz_Scistri/Screenshot1.thumb.png)
+[![Demo](/GameJam/ParkBedlam_Shifan_Franiczek_Ejaz_Scistri/Screenshot1.thumb.png)](https://www.youtube.com/watch?v=fQ1_OEBHfeY)
 
 
 
