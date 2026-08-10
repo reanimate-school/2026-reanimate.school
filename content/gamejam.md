@@ -48,7 +48,7 @@ See also the [pitch presentation](/GameJam/GalaxyPatrol_Tondorf_Chua_Zongo_Bijan
 
 #### Demo
 
-![Demo](/GameJam/GalaxyPatrol_Tondorf_Chua_Zongo_Bijani/Screenshot1.thumb.png)
+[![Demo](/GameJam/GalaxyPatrol_Tondorf_Chua_Zongo_Bijani/Screenshot1.thumb.png)](https://www.youtube.com/watch?v=FTJaXU8g0B8)
 
 
 
